@@ -6,7 +6,7 @@
 # --platform=linux/arm64 xiaoyaliu/alist
 #mysql
 redis:6.0.8
-mysql:5.7
+mysql:5.7.24
 elasticsearch:7.4.0
 #rabbitmq
 
