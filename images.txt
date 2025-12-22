@@ -10,4 +10,4 @@
 #elasticsearch:7.4.0
 #rabbitmq
 #centos:8
-openjdk:11
+ibm-semeru-runtimes:open-8-jdk
