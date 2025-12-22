@@ -9,6 +9,5 @@
 #mysql:5.7.24
 #elasticsearch:7.4.0
 #rabbitmq
-openjdk:8
-openjdk:17
+jdk:8
 
