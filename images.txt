@@ -11,4 +11,5 @@
 #rabbitmq
 #centos:8
 #ibm-semeru-runtimes:open-8-jdk
-ibmjava:8-sdk
+#ibmjava:8-sdk
+ibm-semeru-runtimes:open-8-jre
