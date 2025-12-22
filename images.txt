@@ -11,3 +11,4 @@ elasticsearch:7.4.0
 #rabbitmq
 openjdk:8
 jdk:8
+java:8
