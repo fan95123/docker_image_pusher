@@ -12,4 +12,5 @@
 #centos:8
 #ibm-semeru-runtimes:open-8-jdk
 #ibmjava:8-sdk
-ibm-semeru-runtimes:open-8-jre
+#ibm-semeru-runtimes:open-8-jre
+nacos
